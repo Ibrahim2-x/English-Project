@@ -1,0 +1,11 @@
+C:\Users\haruX\source\repos\English-Project\bin\Debug\English-Project.exe.config
+C:\Users\haruX\source\repos\English-Project\bin\Debug\English-Project.exe
+C:\Users\haruX\source\repos\English-Project\bin\Debug\English-Project.pdb
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English-Project.csproj.AssemblyReference.cache
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English_Project.Form1.resources
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English_Project.Properties.Resources.resources
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English-Project.csproj.GenerateResource.cache
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English-Project.csproj.CoreCompileInputs.cache
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English-Project.exe
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English-Project.pdb
+C:\Users\haruX\source\repos\English-Project\obj\Debug\English_Project.Vocabulary.resources
